@@ -1,0 +1,1 @@
+{"Arn": "arn:aws:lambda:us-east-1:000000000000:function:my-super-group-scaler", "RoleArn": "arn:aws:iam::000000000000:role/my-super-group-scaler-role", "Input": "{\"desired\": 4}"}

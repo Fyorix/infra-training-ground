@@ -59,3 +59,23 @@ PASS M3 a paged alarm saved in NOTES.md
 PASS M3 deployer role without wildcard actions
 PASS M3 deployer AccessDenied proof saved in NOTES.md
 PASS M3 no password left in your current scripts
+PASS M4 at least 2 containers running (2)
+PASS M4 the service spans 2 Availability Zones
+FAIL M4 the load balancer answers 200
+PASS M4 your autoscaler function exists
+PASS M4 its role can scale your service only
+PASS M4 an alarm calls your autoscaler
+FAIL M4 your autoscaler scaled out
+FAIL M4 your autoscaler scaled back in
+PASS M4 CloudFront serves your status page
+FAIL M4 your idea is designed in NOTES.md
+PASS M4 at least 2 containers running (2)
+PASS M4 the service spans 2 Availability Zones
+PASS M4 the load balancer answers 200
+PASS M4 your autoscaler function exists
+PASS M4 its role can scale your service only
+PASS M4 an alarm calls your autoscaler
+PASS M4 your autoscaler scaled out
+PASS M4 your autoscaler scaled back in
+PASS M4 CloudFront serves your status page
+FAIL M4 your idea is designed in NOTES.md
